@@ -9,12 +9,13 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.1"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^4.5.5"
   },
   "author": "Kristina",
   "license": "ISC"
